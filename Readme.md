@@ -18,6 +18,7 @@ Em termos de física, uma cor é uma combinação de três elementos de cor: Ver
 Se gerarmos sinais PWM para os pinos R, G e B, o LED RGB exibirá uma cor correspondente aos valores do ciclo de trabalho PWM. Alterando o ciclo de trabalho dos sinais PWM (de 0 a 255), o LED RGB pode exibir qualquer cor. Os valores de cor Vermelho (R), Verde (G) e Azul (B) correspondem ao ciclo de trabalho PWM nos pinos R, G e B, respectivamente.
 
 ![Controlando o LED RGB](https://github.com/user-attachments/assets/3c41a88a-3397-4717-aade-f1b82abd70de)
+
 OBS.: O LED na animação acima é Anodo Comum.
 
 ## Pré-requisitos
