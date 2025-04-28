@@ -44,10 +44,7 @@ OBS.: O LED na animação acima é Anodo Comum.
 ## Imagem das Conexões
 
 ![Conexão dos componentes](ESP32s_LED_RGB_Simplificado.png)
-<<<<<<< HEAD
 
 ## Foto do Projeto
 
 ![Foto do Projeto](ESP32s_LED_RGB_Simplificado.jpg)
-=======
->>>>>>> 066960421473b6a7b1d04a7725f612c3e95d802b
